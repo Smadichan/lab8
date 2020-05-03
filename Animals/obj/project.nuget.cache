@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GF7hVuLg+e3/MAsD7//cmT5LEWtmNPAAaRgXKDcz8e8r9bnR0Vu6uitYlSj8SQaDV3AtUPiUMyA1a0Cpv6GavQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\ConsoleApp3\\Animals\\Animals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
